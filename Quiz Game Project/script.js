@@ -12,7 +12,7 @@ const questions = [
         question: "Who is the founder of Tesla",
         answers: [
             {text: "Bill Gates", correct: false},
-            {text: "Elon Musk", correct: false},
+            {text: "Cristiano Ronaldo", correct: false},
             {text: "Mark Zuckerberg", correct: false},
             {text: "Nikola Tesla", correct: true},
         ]
