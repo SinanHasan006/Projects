@@ -1,3 +1,4 @@
+//Questions
 const questions = [
     {
         question: "Which is the Capital city of Bulgaria",
